@@ -1,5 +1,5 @@
 # cred-gen
-An simple cli app to easily get Salesforce sessionIds
+A simple cli app to easily get Salesforce sessionIds
 
 Fulfill the .env.example in a new `*.sh` file with execute permission and source it in your shell config file
 
